@@ -1,5 +1,7 @@
 # 👋 Hi! I'm a french developper! There is my informations: 
-
+```
+npm install money x)
+```
 <br>
 
 ```
@@ -20,3 +22,6 @@
 - Programmation (JS, Python, C#, Cpp)
 
 <img src="https://media.discordapp.net/attachments/885765639661314099/894933332746461184/image0.gif"></img>
+```
+then you need to subscribe to my github ;)!
+```

@@ -25,3 +25,4 @@ npm install money x)
 ```
 then you need to subscribe to my github ;)!
 ```
+<img src="https://raw.githubusercontent.com/Th3Te4mH4ckFR/Th3Te4mH4ckFR/main/github-user-contribution.svg"></img>

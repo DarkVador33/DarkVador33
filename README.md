@@ -8,10 +8,10 @@ npm install money x)
 {
     "Username": "Dark Coder",
     "Age": "16yo",
-    "Langages": "Python, JS, C#, Cpp",
+    "Langages": "Python, HTML/CSS/JS, C#, Cpp, Ruby, Discord JS",
     "From": "France",
-    "Discord": "Dark Vador#0001",
-    "Discord Server": "https://discord.gg/Dqj3PnV4vm",
+    "Discord": "Dark Vador#2267",
+    "Discord Server": "https://dsc.gg/k-rma",
 }
 ```
 
